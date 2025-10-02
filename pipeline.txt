@@ -1,0 +1,12 @@
+ # Data Ingesion
+constant file -> configuration file -> Data ingestion
+
+# Data Transformation
+constant file -> configuration file -> Data transformation -> utils file -> Data transformation
+
+#Model training
+
+constant file 
+configuration
+Model training
+utils file 
